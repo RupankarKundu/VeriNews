@@ -1,4 +1,3 @@
-# VeriNews
 # 🧠 VeriNews — Fake News Detection System
 
 > AI-powered system to detect whether news is **REAL or FAKE** using Machine Learning and NLP.
@@ -104,12 +103,4 @@ GitHub: https://github.com/RupankarKundu
 
 ⭐ Support
 
-If you like this project, give it a ⭐
-
-This will generate:
-
-models/pipeline.pkl
-models/meta.json
-▶️ Run the Application
-python app.py
 If you like this project, give it a ⭐
